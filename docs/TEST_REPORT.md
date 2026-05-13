@@ -11,5 +11,7 @@
 - Register: Pass
 - Flash card: Pass
 - Save: Pass
-- Database: Pass
+- Admin: Pass
+- Profile Magement: Pass
+
   
